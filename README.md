@@ -20,6 +20,8 @@
 
 ![Image 6](https://user-images.githubusercontent.com/56722459/71956985-8f1c0600-3212-11ea-8ee6-d95ce8cb1ac5.png)
 
+# Video
+[GitIssueApp.mov.zip](https://github.com/iosdeveloper-portfolio/GithubIssueApp/files/12050689/GitIssueApp.mov.zip)
 
 # Requirements
 
